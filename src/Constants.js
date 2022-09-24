@@ -39,7 +39,7 @@ export const DUMMY_DATA = [
       lat: 27.6056887,
       long: 77.5930509,
     },
-    creator: "u1",
+    creator: "u2",
   },
   {
     id: 1,
@@ -53,7 +53,7 @@ export const DUMMY_DATA = [
       lat: 27.6056887,
       long: 77.5930509,
     },
-    creator: "u1",
+    creator: "u3",
   },
   {
     id: 1,
@@ -67,6 +67,6 @@ export const DUMMY_DATA = [
       lat: 27.6056887,
       long: 77.5930509,
     },
-    creator: "u1",
+    creator: "u4",
   },
 ];
